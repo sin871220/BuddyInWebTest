@@ -18,6 +18,7 @@
     <type fullname="UIPopup_TwoButton" preserve="all" />
     <type fullname="UIPopup_UnlockBonus" preserve="all" />
     <type fullname="UIScreen_SceneChange" preserve="all" />
+    <type fullname="UIScreen_ServerLoading" preserve="all" />
     <type fullname="UISound" preserve="all" />
     <type fullname="UIStory_DemoVerClearPopup" preserve="all" />
     <type fullname="UIStory_EpisodeClearPopup" preserve="all" />
