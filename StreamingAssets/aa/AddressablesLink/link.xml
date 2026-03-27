@@ -35,12 +35,10 @@
     <type fullname="CharacterData" preserve="nothing" serialized="true" />
     <type fullname="ChoiceNode" preserve="nothing" serialized="true" />
     <type fullname="DemoVerClearNode" preserve="nothing" serialized="true" />
-    <type fullname="EFSPlayNode" preserve="nothing" serialized="true" />
     <type fullname="EndScreenNode" preserve="nothing" serialized="true" />
     <type fullname="EpisodeData/Param" preserve="nothing" serialized="true" />
     <type fullname="EpisodeData/Sheet" preserve="nothing" serialized="true" />
     <type fullname="FINNode" preserve="nothing" serialized="true" />
-    <type fullname="ImageViewNode" preserve="nothing" serialized="true" />
     <type fullname="MessageViewNode" preserve="nothing" serialized="true" />
     <type fullname="NextDrillNode" preserve="nothing" serialized="true" />
     <type fullname="POCTutorial/Param" preserve="nothing" serialized="true" />
