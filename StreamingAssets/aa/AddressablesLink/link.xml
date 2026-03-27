@@ -27,6 +27,7 @@
     <type fullname="UIText" preserve="all" />
     <type fullname="UIWindow_MainHud" preserve="all" />
     <type fullname="UIWindow_Plan" preserve="all" />
+    <type fullname="UIWindow_TempHud" preserve="all" />
     <type fullname="UIWindow_Test" preserve="all" />
     <type fullname="BackgroundNode" preserve="nothing" serialized="true" />
     <type fullname="BuddyPlanData/Param" preserve="nothing" serialized="true" />
